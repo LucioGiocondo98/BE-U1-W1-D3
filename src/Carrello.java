@@ -10,7 +10,7 @@ public class Carrello {
 
      }
      public void aggiungiArticolo(Articolo articolo){
-         articolo.add(articolo);
+         articoli.add(articolo);
 
      }
      public double calcolaTotale(){
